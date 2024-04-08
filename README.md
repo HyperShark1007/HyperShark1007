@@ -2,6 +2,8 @@
 I'm currently learning Full Stack Development and Python.<br>I'm also working to wards getting certified in AWS and Azure.
 I'm an enthusiastic learner of the latest technologies surrounding AI.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hypershark1007&label=Profile%20views&color=0e75b6&style=flat" alt="hypershark1007" /> </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dcosta.dwayne) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dwayne-dcosta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@dwayne68367) 
