@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm currently learning Full Stack Development and Python.<br>I'm also working to wards getting certified in AWS and Azure.
+I'm an enthusiastic learner of the latest technologies surrounding AI.
 
 
 ## 🌐 Socials:
