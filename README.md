@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently learning Full Stack Development and Python.<br>I'm also working towards getting certified in AWS and Azure.
-I'm an enthusiastic learner of the latest technologies surrounding AI.
+I'm currently learning Full Stack Development and Python.<br>I'm also working towards getting certified in AWS and Azure.<br>I'm an enthusiastic learner of the latest technologies surrounding AI.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypershark1007&label=Profile%20views&color=0e75b6&style=flat" alt="hypershark1007" /> </p>
 
