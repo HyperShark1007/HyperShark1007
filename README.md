@@ -18,11 +18,7 @@ I'm currently learning Full Stack Development and Python.<br>I'm also working to
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HyperShark1007&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HyperShark1007&icon=2&color=1)](https://visitcount.itsvg.in)
